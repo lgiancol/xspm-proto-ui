@@ -1,0 +1,6 @@
+^{:watch-dirs ["test" "src"]
+  :open-url false
+  :css-dirs ["resources/public/css"]
+  :auto-testing true
+  :auto-bundle :webpack }
+{:main rapid7.xspm-ui}

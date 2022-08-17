@@ -1,0 +1,8 @@
+{
+  "name": "Development Environment",
+  "forwardPorts": [9500],
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "ui",
+  "extensions": ["vspacecode.vspacecode"],
+  "postStartCommand": "npm i"
+}
