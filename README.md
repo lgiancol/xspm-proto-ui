@@ -1,12 +1,7 @@
-# xspm-ui
-
-FIXME: Write a one-line description of your library/project.
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
-
 ## Development
+To setup the project run:clojure -A:fig:build
+
+    npm install
 
 To get an interactive development environment run:
 

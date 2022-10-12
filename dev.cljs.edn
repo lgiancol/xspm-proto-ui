@@ -1,5 +1,6 @@
 ^{:watch-dirs ["test" "src"]
   :open-url false
+  :connect-url "wss://[[client-hostname]]/figwheel-connect"
   :css-dirs ["resources/public/css"]
   :auto-testing true
   :auto-bundle :webpack }
