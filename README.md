@@ -1,5 +1,5 @@
 ## Development
-To setup the project run:clojure -A:fig:build
+To setup the project run:
 
     npm install
 
